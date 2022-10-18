@@ -9,3 +9,6 @@ I'm Dustvc a student from Indonesia, and I do Design and Development. I really e
 * 🥭 MongoDB
 * 🚅 Express
 * 💻 HTML, CSS, JS
+
+## Thank you for visiting <3
+[![](https://visitcount.itsvg.in/api?id=dustvc&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
