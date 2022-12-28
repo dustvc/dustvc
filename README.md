@@ -1,4 +1,4 @@
-<img width="100" height="100" src="https://user-images.githubusercontent.com/114353131/209820122-edf315ed-134a-4b27-818c-b1c8caedc98d.jpg">
+<img width="150" height="150" src="https://user-images.githubusercontent.com/114353131/209820122-edf315ed-134a-4b27-818c-b1c8caedc98d.jpg">
 
 # Dustvc / Dustynus Marvell Chang
 Hello 👋, my name is Dustvc. An Indonesian student with a focus on software development and design. In addition to learning new languages and frameworks, I also enjoy picking up new skills. Check out my profile and have fun.
