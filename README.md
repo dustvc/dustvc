@@ -1,5 +1,5 @@
 # Dustvc / Dustynus Marvell Chang
-Hello 👋, my name is Dustvc. An Indonesian student with a focus on software development and design. In addition to learning new languages and frameworks, I also enjoy picking up new skills. Check out my profile and have fun.
+Hello, I'm Dustynus Marvell, but you can call me Marvell. I proudly identify as a full-stack developer hailing from Indonesia. As a student, my dream is to become one of the best programmers globally. To achieve this ambitious goal, I am immersing myself in the dynamic realm of freelancing, continually honing my skills, and gaining valuable experience. I was hoping you could take a moment to explore my projects and witness the journey toward realizing my dreams. Your support is greatly appreciated! Thank you <3
 
 ## Skills and experience
 * ⚛️ React
