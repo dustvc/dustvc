@@ -8,9 +8,5 @@ Hello, I'm Dustynus Marvell, but you can call me Marvell. I proudly identify as 
 * 🚅 Express
 * 💻 HTML, CSS, JS
 
-## Reach me here
-* Email: dustvc@gmail.com
-* Twitter: _dustvc
-
 ## Thank you for visiting <3
 [![](https://visitcount.itsvg.in/api?id=dustvc&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
